@@ -55,3 +55,9 @@ Available at Zenodo:
 
 This repository and all included materials are shared under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
+## Full project snapshot DOI
+
+This repository snapshot is archived at Zenodo:  
+[doi:10.5281/zenodo.15834012](https://doi.org/10.5281/zenodo.15834012)
+
+
